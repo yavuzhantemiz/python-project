@@ -1,2 +1,2 @@
 # python-project
-Bu repo python projeleri icin kullanilacaktir.
+Mini solutions with python.
